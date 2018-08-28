@@ -1,0 +1,8 @@
+yuliao			/home/luo/Downloads/yuliao/
+titlefeature	/home/luo/project/miniSearchEngine2/offline/data/in.txt
+ripepagelib		/home/luo/Downloads/miniSearch/ripepage.lib
+offsetlib	    /home/luo/Downloads/miniSearch/offset.lib
+stopword	    /home/luo/project/cppjieba/dict/stop_words.utf8
+newpagelib      /home/luo/Downloads/miniSearch/newpage.lib
+newoffsetlib    /home/luo/Downloads/miniSearch/newoffset.lib
+invertindexlib  /home/luo/Downloads/miniSearch/invertindex.lib

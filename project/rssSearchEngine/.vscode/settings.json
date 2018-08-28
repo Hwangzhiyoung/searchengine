@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "xstring": "cpp",
+        "functional": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    }
+}

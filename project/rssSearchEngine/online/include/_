@@ -1,0 +1,40 @@
+ ///
+ /// @file    WordQuery.hpp
+ /// @author  lemon(haohb13@gmail.com)
+ /// @date    2016-01-21 09:42:00
+ ///
+
+#ifndef _WD_WORD_QUERY_H_
+#define _WD_WORD_QUERY_H_
+
+#include "WebPage.hpp"
+#include "Configuration.hpp"
+
+#include <vector>
+#include <map>
+#include <set>
+#include <string>
+
+using std::vector;
+using std::map;
+using std::set;
+using std::string;
+using std::pair;
+using std::make_pair;
+using namespace wd;
+
+namespace wd
+{
+
+class WordQuery
+{
+public:
+	WordQuery(Configuration & conf);
+private:
+	vector<WebPage> _pageLib;
+	unordered_map<int, pair<int, int> > _offsetLib;
+	unordered_map<string, set
+};
+
+} // end of namespce wd
+#endif
